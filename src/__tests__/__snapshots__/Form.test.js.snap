@@ -160,7 +160,7 @@ exports[`Form matches snapshot 1`] = `
       >
         I have read and I do accept 
         <a
-          href="www.google.com"
+          href="/"
         >
           terms of services
         </a>
@@ -182,7 +182,7 @@ exports[`Form matches snapshot 1`] = `
       >
         I have read and I do accept 
         <a
-          href="www.google.com"
+          href="/"
         >
           privacy policy
         </a>
