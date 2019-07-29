@@ -1,4 +1,4 @@
-## Simplr form
+## Simplr form CONTEXT
 
 <a href='https://form-ehhlo2y3h.now.sh'>LIVE DEMO</a>
 
@@ -10,7 +10,7 @@ React Context is used for global state management.
 
 --
 
-The following set of props may be passed to create new Input: 
+The following set of props passed to create new Input: 
 
 - `label:String` - Label for input<br/>
 - `type:String` - Input type (text || email || password || checkbox)<br/>
